@@ -12,4 +12,4 @@ Hardware : Xilinx Zedboard
 
 ## License
 
-(BSD 2-Clause License)[https://github.com/Guilyx/led-dimmer/blob/master/LICENSE]
+[BSD 2-Clause License](https://github.com/Guilyx/led-dimmer/blob/master/LICENSE)
